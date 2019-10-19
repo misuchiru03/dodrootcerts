@@ -3,9 +3,13 @@ Compilation of DoD Root Certificates to install all in one place. I set this up 
 
 ## The following certs are available in this repo:
 AllCerts.p7b
+
 RootCert2.crt
+
 RootCert3.crt
+
 RootCert4.crt
+
 RootCert5.crt
 
 
